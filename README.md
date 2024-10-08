@@ -3,10 +3,11 @@
 </head>
 <body>
     <h1>About Me</h1>
-    <p>Hi, my name is Dylan. I went to West Hempstead High School down in Long Island, NY.   </p>
+    <p>Hi, my name is Dylan. I went to West Hempstead High School down in Long Island, NY. My hobbies include playing instruments (violin/viola), content consumption (music/anime/kdramas), sports (tennis/volleyball/badminton/table tennis), and bedrotting. </p>
 
     <h2>My Favorite Food</h2>
-    <img src="/Users/dylan/SWEN101/git-intro/foodpicture.jpg" alt="My Favorite Food" width="300">
+   <img src="foodpicture.jpg" alt="My Favorite Food" width="300">
+
 
     <h2>What I'd Like to Learn from This Course</h2>
     <ul>
