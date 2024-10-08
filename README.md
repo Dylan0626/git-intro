@@ -21,4 +21,3 @@
     <h2>RIT Software Engineering Website</h2>
     <a href="https://sse.rit.edu/" target="_blank">Visit the RIT SE Website</a>
 </body>
-</html>
